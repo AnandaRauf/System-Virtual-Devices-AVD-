@@ -1,0 +1,6 @@
+Developer : Ananda Rauf Maududi
+Copyright @2018
+How To Use?
+- Install Android Studio
+- Move Folder x86 to C:\Users\Your Name Computer System\.android\avd
+- More Info : https://blahti.wordpress.com/2011/08/24/how-to-export-and-import-android-virtual-device-avd-files/
